@@ -7,3 +7,11 @@ Click [here](https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction
 
 ![gif](image.gif)
 ![png](image.png)
+
+
+<p align="center">
+  <img src="https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction-tutorial/raw/main/image.gif" />
+</p>
+<p align="center">
+  <img src="https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction-tutorial/raw/main/image.png" />
+</p>
