@@ -5,13 +5,9 @@ This project was born as I couldn't find a good working tutorial for feature vis
 
 Click [here](https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction-tutorial/blob/main/feature_extraction_dream.ipynb) or above to see the notebook.
 
-![gif](image.gif)
-![png](image.png)
-
-
-<p align="center">
-  <img src="https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction-tutorial/raw/main/image.gif" />
-</p>
 <p align="center">
   <img src="https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction-tutorial/raw/main/image.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/Stefan-Heimersheim/tensorflow-feature-extraction-tutorial/raw/main/image.gif" />
 </p>
