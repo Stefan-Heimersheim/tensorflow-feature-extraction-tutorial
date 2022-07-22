@@ -1,4 +1,4 @@
-# tensorflow-feature-extraction-tutorial
+# Feature Extraction in less than 50 lines of code
 A short tutorial to get started with feature extraction in CNNs, based on TensorFlow's [DeepDream code](https://www.tensorflow.org/tutorials/generative/deepdream). Content available under CC BY 4.0 and code under Apache 2.0 License.
 
 <p align="center">
