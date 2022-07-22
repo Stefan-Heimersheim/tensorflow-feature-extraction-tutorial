@@ -1,4 +1,4 @@
-[_My project for [AGI Safety Fundamentals programme](https://www.eacambridge.org/technical-alignment-curriculum) ~Oct 2021_]
+[_My project for [AGI Safety Fundamentals programme](https://www.eacambridge.org/technical-alignment-curriculum) ~Oct 2021. Blog post link: [LessWrong](https://www.lesswrong.com/posts/raRSW3e9iYMwkqjBX/cnn-feature-visualization-in-50-lines-of-code)_]
 
 # Feature Extraction in less than 50 lines of code
 A short tutorial to get started with feature extraction in CNNs, based on TensorFlow's [DeepDream code](https://www.tensorflow.org/tutorials/generative/deepdream). Content available under CC BY 4.0 and code under Apache 2.0 License.
